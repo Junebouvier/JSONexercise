@@ -8,13 +8,15 @@
 
     {
       "id":2,
-      "title": "waroo"
+      "title": "waroo",
+      "deck": [23, 57, 125, 239]
     },
 
 
     {
      "id":3,
-      "title": "vathrix"
+      "title": "vathrix",
+      "deck": [52, 107, 266, 407]
     }
   ]
 
